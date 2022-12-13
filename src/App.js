@@ -66,7 +66,7 @@ function App() {
 
 	return (
 		<section className="form-section">
-			<h1 className="heading">User details form</h1>
+			<h1 className="heading">Admission form</h1>
 			{detailFormSubmit ? (
 				<div className="responseConatiner">
 					<div>{detailsResesponseMessage}</div>

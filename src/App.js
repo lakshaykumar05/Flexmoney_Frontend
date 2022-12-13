@@ -180,7 +180,7 @@ function App() {
 						</div>
 					</div>
 
-					<button className="submit-button">Submit</button>
+					<button className="submit-button">Register</button>
 				</form>
 			)}
 
